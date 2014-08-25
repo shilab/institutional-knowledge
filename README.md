@@ -9,3 +9,7 @@ This repo is a place to collect all those bits of trivia that are potentially us
 module load R
 ```  
 *  In order to clone a private GitHub repository you need to use [SSH keys](https://help.github.com/articles/generating-ssh-keys)  
+
+###Matrix eQTL
+=====================
+*  ID columns need to match
