@@ -13,3 +13,4 @@ module load R
 ###Matrix eQTL
 =====================
 *  ID columns need to match
+*  The IDs in the header also need to match between genotype and expression file
