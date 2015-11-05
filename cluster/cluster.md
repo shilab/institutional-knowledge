@@ -10,3 +10,5 @@ The job status is Q for queued, R for running or C for complete.
 You can get the full job status by using ```qstat -f jobid```.
 
 Delete a running job by using ```qdel jobid```.
+
+There is more information on the [URC website](http://urc.uncc.edu/faqs/job-scheduling-with-torque/)
