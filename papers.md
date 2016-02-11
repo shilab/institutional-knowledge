@@ -1,3 +1,6 @@
+[A Guide to Reading Papers](https://github.com/jtleek/readingpapers)
+
+
 [Five Selfish Reasons to Work Reproducibly](http://www.genomebiology.com/2015/16/1/274)  
 [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)  
 [The open research value proposition: How sharing can help researchers succeed](https://figshare.com/articles/The_open_research_value_proposition_How_sharing_can_help_researchers_succeed/1619902)  
