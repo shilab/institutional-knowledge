@@ -4,7 +4,7 @@
 ### Specify queue to run - viper or Cobra
 #PBS -q viper
 ### Set the job name
-#PBS -N job-namet
+#PBS -N job-name
 ### Specify the # of cpus for your job.
 #PBS -l nodes=2:ppn=4
 ### Adjust walltime below (default walltime = 7 days, or 168 hours)
