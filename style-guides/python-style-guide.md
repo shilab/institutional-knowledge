@@ -12,6 +12,10 @@
 
 ##Line Length
 
-* 80 characters is the max line length
+* 79 characters is the max line length
 
 * There can be exceptions to this rule
+
+##General
+
+* Use [PEP 8](https://www.python.org/dev/peps/pep-0008/) as a guide
