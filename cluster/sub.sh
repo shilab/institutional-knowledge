@@ -21,7 +21,7 @@
 #######################################################################
 
 SHORT_JOBID=`echo $PBS_JOBID |cut -d. -f1`
-1>$PBS_O_WORKDIR/$PBS_JOBNAME-$SHORT_JOBID.out  2>$PBS_O_WORKDIR/$PBS_JOBNAME-$SHORT_JOBID.err
+exec 1>$PBS_O_WORKDIR/$PBS_JOBNAME-$SHORT_JOBID.out  2>$PBS_O_WORKDIR/$PBS_JOBNAME-$SHORT_JOBID.err
 cd $PBS_O_WORKDIR
 
 #Run code like on the command line. Ex:
