@@ -1,12 +1,12 @@
-#!/bin/sh
+#!/bin/bash
 #######################################################################
 # ======= PBS OPTIONS ======= 
-### Specify queue to run - viper or Cobra
-#PBS -q viper
+### Specify queue to run - mamba, Cobra, or copperhead
+#PBS -q mamba
 ### Set the job name
 #PBS -N job-name
 ### Specify the # of cpus for your job.
-#PBS -l nodes=2:ppn=4
+#PBS -l nodes=1:ppn=1
 ### Adjust walltime below (default walltime = 7 days, or 168 hours)
 ### if you require > 7 days, INCREASE to estimated # hours needed
 ### if you DON'T require 7 days DECREASE to estimated # hours needed
